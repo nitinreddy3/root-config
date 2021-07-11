@@ -8,11 +8,11 @@ $ npm install
 
 ## Run the application
 
-- Navigate to the angular-app folder and run the below command
+- Navigate to the [angular-app](https://github.com/nitinreddy3/angular-app) folder and run the below command
   ```js
   $ npm run serve:single-spa:angular-app
   ```
-- Navigate to the react-app folder and run the below command
+- Navigate to the [react-app](https://github.com/nitinreddy3/react-app) folder and run the below command
   ```js
   $ npm start
   ```
@@ -26,4 +26,5 @@ $ npm install
   Now in the top navigation bar click on **React**, you will be routed to the React app, on click of **Angular** you will be redirected to angular app
   
   **http://localhost:9000/react** -> React App
+  
   **http://localhost:9000/angular/** -> Angular App
